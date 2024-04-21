@@ -6,6 +6,7 @@ layout: page
 Base endpoint:
 
 ```shell
+
 {server_url}/users
 ```
 
@@ -19,6 +20,7 @@ the service first.
 Sample `user` resource
 
 ```js
+
 {
     "last_name": "Smith",
     "first_name": "Ferdinand",
