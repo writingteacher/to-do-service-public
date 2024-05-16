@@ -32,10 +32,13 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Delete a task](tutorials/delete-a-task)
 * [Get a user by name](tutorials/get-a-user-by-name)
 * [Get tasks by title](tutorials/get-tasks-by-title)
+* [Get tasks by a property](/docs/tutorials/get-task-by-property.md)
 * [Get a user by email](tutorials/get-a-user-by-email)
 * [Get a user by email](tutorials/get-user-by-email)
 * [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
 * [Update a task](tutorials/update-a-task.md)
+* [Update a task description](tutorials/update-task-description.md)
+* [Update a user property)](tutorials/update-user-property)
 
 ## API reference docs
 
@@ -52,3 +55,4 @@ generally `http://localhost:3000`.
 * [task resource](api/task)
 * [Handling errors](api/handling-errors)
 * [Get tasks by title](tasks-get-tasks-by-title)
+* [Get tasks by property](/docs/api/get-task-ref.md)
